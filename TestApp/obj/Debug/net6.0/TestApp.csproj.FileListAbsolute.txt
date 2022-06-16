@@ -1,7 +1,0 @@
-C:\Work\TestApp\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
-C:\Work\TestApp\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Work\TestApp\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
-C:\Work\TestApp\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
-C:\Work\TestApp\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
-C:\Work\TestApp\TestApp\obj\Debug\net6.0\TestApp.MvcApplicationPartsAssemblyInfo.cs
-C:\Work\TestApp\TestApp\obj\Debug\net6.0\TestApp.MvcApplicationPartsAssemblyInfo.cache
