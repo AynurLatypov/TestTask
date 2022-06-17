@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TestApp.Web.Data;
+namespace TestApp.Web.Models;
 
 public class DataEntity
 {

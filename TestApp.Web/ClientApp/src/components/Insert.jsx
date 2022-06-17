@@ -36,7 +36,7 @@ export function Insert() {
         })
         const params = { method: 'POST', body: JSON.stringify(request), headers: { 'content-type': 'application/json' } };
         await fetch('/api/data', params);
-            history.push('/values')
+        history.push('/values');
     }
 
     return <>

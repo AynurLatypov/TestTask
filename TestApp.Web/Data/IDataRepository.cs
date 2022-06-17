@@ -1,4 +1,6 @@
-﻿namespace TestApp.Web.Data;
+﻿using TestApp.Web.Models;
+
+namespace TestApp.Web.Data;
 
 public interface IDataRepository
 {

@@ -2,16 +2,16 @@
 
 namespace TestApp.Web.Data;
 
-public class DatabaseInitializer : DbServiceBase
+public class DbInitService : DbServiceBase
 {
     private bool _isInitialized = false;
     private readonly object _locker = new();
 
-    public DatabaseInitializer(IConfiguration config) : base(config)
+    public DbInitService(IConfiguration config) : base(config)
     {
     }
 
-    public void Init()
+    public void InitDb()
     {
         lock (_locker)
         {

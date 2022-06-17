@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using TestApp.Web.Data;
+using TestApp.Web.Models;
 
 namespace TestApp.Web.Controllers;
 
